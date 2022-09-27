@@ -614,7 +614,7 @@ body.push-side #ascrail2000-hr {
 
 .site-logo {
 	display: block;
-	margin-bottom: 80px;
+	margin-bottom: 30px;
 }
 
 .site-logo h2 {
@@ -635,20 +635,20 @@ body.push-side #ascrail2000-hr {
 }
 
 .about-info {
-	margin-bottom: 80px;
+	margin-bottom: 40px;
 }
 
 .about-info h2 {
 	font-weight: 900;
-	font-size: 48px;
-	margin-bottom: 40px;
+	font-size: 28px;
+	margin-bottom: 15px;
 	line-height: 1.1;
 	font-family: "Playfair Display", serif;
 }
 
 .contact-info {
 	list-style: none;
-	margin-bottom: 65px;
+	margin-bottom: 40px;
 	position: relative;
 }
 
